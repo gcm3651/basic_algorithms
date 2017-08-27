@@ -1,1 +1,1 @@
-# basic_algorithms
+# this is basic data stucture and algorithms
