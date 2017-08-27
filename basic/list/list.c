@@ -49,7 +49,7 @@ void print_list(node_t *head)
 }
 
 
-void main()
+int main()
 {
     node_t *list = NULL;
     add_node(&list, 1);
